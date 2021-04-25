@@ -194,7 +194,8 @@ PRODUCT_COPY_FILES += \
     vendor/ancient/config/permissions/vendor.lineage.biometrics.fingerprint.inscreen.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/vendor.lineage.biometrics.fingerprint.inscreen.xml
 
 PRODUCT_PACKAGES += \
-    vendor.xiaomi.hardware.fingerprintextension@1.0.vendor
+    vendor.xiaomi.hardware.fingerprintextension@1.0.vendor \
+    vendor.xiaomi.hardware.touchfeature@1.0.vendor
 
 # GPS
 PRODUCT_COPY_FILES += \
