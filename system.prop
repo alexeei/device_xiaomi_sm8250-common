@@ -6,6 +6,9 @@ tunnel.audio.encode=true
 # Camera
 camera.disable_zsl_mode=true
 
+#GBoard
+ro.com.google.ime.kb_pad_port_b=1
+
 # Charger
 ro.charger.disable_init_blank=true
 
