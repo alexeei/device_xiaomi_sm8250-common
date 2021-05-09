@@ -3,3 +3,6 @@
 /sys/devices/platform/soc/soc:maxim_ds28e16/power_supply/batt_verify/wakeup49  u:object_r:vendor_sysfs_battery_supply:s0
 /sys/devices/platform/soc/soc:maxim_ds28e16/power_supply/batt_verify/wakeup49/event_count  u:object_r:vendor_sysfs_battery_supply:s0
 /sys/devices/platform/soc/888000.i2c/i2c-5/5-0061/wakeup/wakeup86   u:object_r:sysfs:s0
+
+#FF
+/sys/devices/platform/soc/soc:qcom,dsi-display-primary/msm_fb_ea_enable  u:object_r:sysfs_graphics:s0
